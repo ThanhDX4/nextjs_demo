@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
+import { BrandPanelArea } from "../components/Slider";
 
 export default function Example() {
     var router = useRouter();
@@ -38,6 +39,7 @@ export default function Example() {
             >
                 place order
             </button>
+            <BrandPanelArea />
         </>
     );
 }

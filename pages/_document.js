@@ -38,26 +38,32 @@ export default class MyDocument extends Document {
                         crossOrigin="anonymous"
                         href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap"
                         rel="preload"
+                        as="font"
                     />
                     <link
                         href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&display=swap"
                         rel="preload"
+                        as="font"
                     />
                     <link
                         href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New&family=Zen+Old+Mincho&display=swap"
                         rel="preload"
+                        as="font"
                     />
                     <link
                         href="https://fonts.googleapis.com/css2?family=Zen+Antique+Soft&display=swap"
                         rel="preload"
+                        as="font"
                     />
                     <link
                         href="https://fonts.googleapis.com/css2?family=Klee+One&display=swap"
                         rel="preload"
+                        as="font"
                     />
                     <link
                         href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap"
                         rel="preload"
+                        as="font"
                     />
                     <meta content="initial-scale=1" name="viewport" />
                     <Script
