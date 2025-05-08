@@ -75,7 +75,12 @@
       "namedRegex": "^/profile(?:/)?$"
     }
   ],
-  "dataRoutes": [],
+  "dataRoutes": [
+    {
+      "page": "/blog/first",
+      "dataRouteRegex": "^/_next/data/A67Qp8QBudN2j_r1IHCN_/blog/first\\.json$"
+    }
+  ],
   "rsc": {
     "header": "RSC",
     "varyHeader": "RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Router-Segment-Prefetch",

@@ -26,6 +26,11 @@ export default function Example() {
                         product
                     </div>
                 </Link>
+                <Link prefetch={false} href="/blog">
+                    <div className="mx-16 my-16 text-xl font-bold text-green-600 cursor-pointer">
+                        Blog
+                    </div>
+                </Link>
             </div>
             <button
                 className="border text-white font-bold p-1 bg-green-700 mx-12 rounded"
