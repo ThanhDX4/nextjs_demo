@@ -1,0 +1,16 @@
+{
+  "/_app": "pages/_app.js",
+  "/about": "pages/about.html",
+  "/blog/first": "pages/blog/first.html",
+  "/api/hello": "pages/api/hello.js",
+  "/blog/second": "pages/blog/second.html",
+  "/blog": "pages/blog.html",
+  "/": "pages/index.html",
+  "/product/[id]": "pages/product/[id].html",
+  "/product": "pages/product.html",
+  "/profile": "pages/profile.html",
+  "/_error": "pages/_error.js",
+  "/docs/[[...params]]": "pages/docs/[[...params]].html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
